@@ -1,0 +1,24 @@
+# Logfile created on 2015-06-15 15:22:32 +0530 by logger.rb/31641
+I, [2015-06-15T15:22:32.980749 #10712]  INFO -- : 0:  i18n (0.7.0) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/i18n-0.7.0.gemspec
+I, [2015-06-15T15:22:32.981274 #10712]  INFO -- : 0:  json (1.8.2) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/json-1.8.2.gemspec
+I, [2015-06-15T15:22:32.981559 #10712]  INFO -- : 0:  minitest (5.5.1) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/minitest-5.5.1.gemspec
+I, [2015-06-15T15:22:32.981840 #10712]  INFO -- : 0:  thread_safe (0.3.5) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/thread_safe-0.3.5.gemspec
+I, [2015-06-15T15:22:32.982120 #10712]  INFO -- : 0:  tzinfo (1.2.2) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/tzinfo-1.2.2.gemspec
+I, [2015-06-15T15:22:32.982432 #10712]  INFO -- : 0:  activesupport (4.2.1) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/activesupport-4.2.1.gemspec
+I, [2015-06-15T15:22:32.982713 #10712]  INFO -- : 0:  descendants_tracker (0.0.4) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/descendants_tracker-0.0.4.gemspec
+I, [2015-06-15T15:22:32.982966 #10712]  INFO -- : 0:  ice_nine (0.11.1) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/ice_nine-0.11.1.gemspec
+I, [2015-06-15T15:22:32.983215 #10712]  INFO -- : 0:  axiom-types (0.1.1) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/axiom-types-0.1.1.gemspec
+I, [2015-06-15T15:22:32.983475 #10712]  INFO -- : 0:  builder (3.2.2) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/builder-3.2.2.gemspec
+I, [2015-06-15T15:22:32.983736 #10712]  INFO -- : 0:  coercible (1.0.0) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/coercible-1.0.0.gemspec
+I, [2015-06-15T15:22:32.983998 #10712]  INFO -- : 0:  equalizer (0.0.11) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/equalizer-0.0.11.gemspec
+I, [2015-06-15T15:22:32.984260 #10712]  INFO -- : 0:  hashie (3.4.1) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/hashie-3.4.1.gemspec
+I, [2015-06-15T15:22:32.984532 #10712]  INFO -- : 0:  multi_json (1.11.0) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/multi_json-1.11.0.gemspec
+I, [2015-06-15T15:22:32.984806 #10712]  INFO -- : 0:  multi_xml (0.5.5) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/multi_xml-0.5.5.gemspec
+I, [2015-06-15T15:22:32.985065 #10712]  INFO -- : 0:  rack (1.6.0) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/rack-1.6.0.gemspec
+I, [2015-06-15T15:22:32.985324 #10712]  INFO -- : 0:  rack-accept (0.4.5) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/rack-accept-0.4.5.gemspec
+I, [2015-06-15T15:22:32.985578 #10712]  INFO -- : 0:  rack-mount (0.8.3) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/rack-mount-0.8.3.gemspec
+I, [2015-06-15T15:22:32.985826 #10712]  INFO -- : 0:  virtus (1.0.5) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/virtus-1.0.5.gemspec
+I, [2015-06-15T15:22:32.986080 #10712]  INFO -- : 0:  grape (0.11.0) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/grape-0.11.0.gemspec
+I, [2015-06-15T15:22:36.019080 #10712]  INFO -- : 0:  httparty (0.13.5) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/httparty-0.13.5.gemspec
+I, [2015-06-15T15:22:36.019481 #10712]  INFO -- : 0:  rack-contrib (1.2.0) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/rack-contrib-1.2.0.gemspec
+I, [2015-06-15T15:22:36.019714 #10712]  INFO -- : 0:  bundler (1.5.1) from /home/skrishna/.rbenv/versions/1.9.3-p385/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec

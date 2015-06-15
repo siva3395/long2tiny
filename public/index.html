@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="js/url.js"></script>
+    <title>Convert Long Urls to Tiny urls</title>
+  </head>
+  <body class="container" style="padding-top: 40px;">
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+        <h3>Convert Long urls to tiny urls (JSON API: http://long2tiny.herokuapp.com/api/urls?url=long-url-here)</h3>
+     </div>
+      <div class="panel-body">
+        <form class="form-horizonal" id="long_url_form">
+          <div class="form-group">
+            <input type="text" class="form-control input-lg" placeholder="Long url here" id="long_url_input">
+            <span id="no_input_error" style="color:red; display:none"></span>
+          </div>
+          <input type="submit" value="Get tiny url" class="btn btn-primary">
+          <span id="loading_spinner" style="display:none;">
+            <img src="images/spinner.gif">
+          </span>
+        </form>
+        <div id="tiny_url_container">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
